@@ -4,35 +4,35 @@
         "name": "test1"
     },
     {
-        "image": "../assets/grapes.png",
-        "name": "grapes"
+        "image": "../assets/test2.png",
+        "name": "test2"
     },
     {
-        "image": "../assets/lemon.png",
-        "name": "lemon"
+        "image": "../assets/test3.png",
+        "name": "test2"
     },
     {
-        "image": "../assets/orange.png",
-        "name": "orange"
+        "image": "../assets/test4.png",
+        "name": "test4"
     },
     {
-        "image": "../assets/pineapple.png",
-        "name": "pineapple"
+        "image": "../assets/test5.png",
+        "name": "test5"
     },
     {
-        "image": "../assets/strawberry.png",
-        "name": "strawberry"
+        "image": "../assets/test6.png",
+        "name": "test6"
     },
     {
-        "image": "../assets/tomato.png",
-        "name": "tomato"
+        "image": "../assets/test7.png",
+        "name": "test7"
     },
     {
-        "image": "../assets/watermelon.png",
-        "name": "watermelon"
+        "image": "../assets/test8.png",
+        "name": "test8"
     },
     {
-        "image": "../assets/cherries.png",
-        "name": "cherries"
+        "image": "../assets/test9.png",
+        "name": "test9"
     }
 ]
