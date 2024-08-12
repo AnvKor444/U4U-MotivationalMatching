@@ -30,12 +30,13 @@ body {
       color: white;
   }
   
+/*this might be the place where the number of rows and columns needs to be changed (three across and 6 down) */
   .grid-container {
     display: grid;
     justify-content: center;
     grid-gap: 16px;
-    grid-template-columns: repeat(6, 140px);
-    grid-template-rows: repeat(2, calc(140px / 2 * 3));
+    grid-template-columns: repeat(3, 140px);
+    grid-template-rows: repeat(6, calc(140px / 2 * 3));
   }
   
   .card {
